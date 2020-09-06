@@ -1,6 +1,5 @@
 # K-Means-Clustering-with-Python-part-1
 
-
 K Means Clustering is an unsupervised learning algorithm that tries to cluster data based on their similarity.
 Making Random data using blobs and Analysing it and forming Clusters from it.
 
